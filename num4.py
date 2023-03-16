@@ -1,0 +1,5 @@
+number = int(input("Введите число: "))
+x = int(number // 6)
+PetiaandSerega = int(x)
+Kate = int((4 * PetiaandSerega))
+print(f"Сделано журавликов: {number}, из них Петя и Сережа сделали по: {PetiaandSerega}, Катя сделала: {Kate}")
